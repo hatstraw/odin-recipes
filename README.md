@@ -2,7 +2,7 @@
 
 ### First HTML projects from Odin Project
 
-Mainly practice using :
+Mainly practiced using :
 
 - Working link attributes in anchor element `<a href>`
 - Working with images files.
